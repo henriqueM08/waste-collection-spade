@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+spade_env/
+
+# Gerado pela simulação
+logs/
+results/
+stats/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+
+# Segredos
+.env
